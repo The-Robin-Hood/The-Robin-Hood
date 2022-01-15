@@ -1,20 +1,21 @@
-# Hi, I'm Ansari - aka [theRobinhood] 🙌🏻
+# Hi, I'm Ansari - aka [theRobinhood] <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="50">
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/-dHgrUTObOo?label=Watch%20Me&logo=youtube&style=for-the-badge)
-[<img align="left" alt="Ansari | Instagram" width="130px" src="https://img.shields.io/badge/Follow Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
-## I'm a Developer, Youtuber and Student!!
+[<img target="_blank" align="left" alt="Ansari | Instagram" width="130px" src="https://img.shields.io/badge/Follow Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
+## I'm a Developer, Youtuber and Student!! 
+<img src="https://media3.giphy.com/media/NWNJHyPmIuXGxt6QnO/giphy_s.gif" width="100">
 
 - 🎈 I’m currently exploring as much as I can 😁
 - 🎓 I’m looking to collaborate with other content creators
 - 📚 2022 Objective: To read alot of books
-- ⚡ Fun fact: In love with Technology
+- ⚡ Fun fact: In love with Technology 
 
 ### Connect with me:
 
-[<img align="left" alt="Ansari | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ansari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="Ansari | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" target="_blank" />][youtube]
+[<img align="left" alt="Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" />][twitter]
+[<img align="left" alt="Ansari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
+[<img align="left" alt="Ansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />][instagram]
 
 <br />
 
@@ -47,12 +48,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
----
 
 ### 📺 Latest YouTube Videos
-
 <!-- YOUTUBE -->
 - [Things from Rich Dad Poor Dad to Get Rich in 2022](https://youtu.be/iG-4Y_6MZgU)
 - [How I started Coding ? Why you should Code ?](https://www.youtube.com/watch?v=8CWCEst7olw)
