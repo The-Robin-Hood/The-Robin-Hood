@@ -1,7 +1,7 @@
 # Hi, I'm Ansari - aka [theRobinhood] 🙌🏻
 
-[![Twitter](https://img.shields.io/twitter/follow/AnsariStark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AnsariStark)
-
+![YouTube Video Views](https://img.shields.io/youtube/views/-dHgrUTObOo?label=Watch%20Me&logo=youtube&style=for-the-badge)
+[<img align="left" alt="Ansari | Instagram" width="130px" src="https://img.shields.io/badge/Follow Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
 ## I'm a Developer, Youtuber and Student!!
 
 - 🎈 I’m currently exploring as much as I can 😁
