@@ -1,5 +1,5 @@
 <div align="left">
-<a href="https://app.daily.dev/TheRobinHood" target="__blank"><img src="https://raw.githubusercontent.com/The-Robin-Hood/The-Robin-Hood/main/devcard.svg" width="256" alt="Ansari's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/TheRobinHood" target="__blank"><img src="https://api.daily.dev/devcards/909fb6f0a8474c63a6268bb5bcdd56ea.png?r=pw7" width="256" alt="Ansari's Dev Card" align="right"/></a>
 </div>
 
 # Hi, I'm Ansari - aka [theRobinhood] <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="50">
