@@ -2,9 +2,9 @@
 <a href="https://app.daily.dev/TheRobinHood" target="__blank"><img src="https://api.daily.dev/devcards/909fb6f0a8474c63a6268bb5bcdd56ea.png?r=pw7" width="256" alt="Ansari's Dev Card" align="right"/></a>
 </div>
 
-# Hi, I'm Ansari - aka [theRobinhood] <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="50">
+# Hi, I'm Ansari - aka [theRobinhood] <img src="https://media.giphy.com/media/5HRdeFIzjV3FMnwd0K/giphy.gif" width="50">
 
-![YouTube Video Views](https://img.shields.io/youtube/views/-dHgrUTObOo?label=Watch%20Me&logo=youtube&style=for-the-badge)
+[![YouTube Video Views](https://img.shields.io/youtube/channel/views/UCCLMBSCRB8akgrH3fBggeTw?color=blue&label=Subscribe&style=for-the-badge)][youtube]
 [<img target="_blank" align="left" alt="Ansari | Instagram" width="130px" src="https://img.shields.io/badge/Follow Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
 ## I'm a Developer, Youtuber and Student!! 
 <img src="https://media3.giphy.com/media/NWNJHyPmIuXGxt6QnO/giphy_s.gif" width="100">
@@ -64,5 +64,5 @@
 
 [twitter]: https://twitter.com/AnsariStark
 [youtube]: https://youtube.com/amsorry
-[instagram]: https://instagram.com/the_robin_hood
+[instagram]: https://instagram.com/amsorry_offl
 [linkedin]: https://linkedin.com/in/ansari-s
