@@ -2,12 +2,11 @@
 <a href="https://app.daily.dev/TheRobinHood" target="__blank"><img src="https://api.daily.dev/devcards/909fb6f0a8474c63a6268bb5bcdd56ea.png?r=pw7" width="256" alt="Ansari's Dev Card" align="right"/></a>
 </div>
 
-# Hi, I'm Ansari - aka [theRobinhood] <img src="https://media.giphy.com/media/5HRdeFIzjV3FMnwd0K/giphy.gif" width="50">
+## Hi, I'm Ansari <img src="https://media.giphy.com/media/5HRdeFIzjV3FMnwd0K/giphy.gif" width="50"> aka therobinhood
 
 [![YouTube Video Views](https://img.shields.io/youtube/channel/views/UCCLMBSCRB8akgrH3fBggeTw?color=blue&label=Subscribe&style=for-the-badge)][youtube]
 [<img target="_blank" align="left" alt="Ansari | Instagram" width="130px" src="https://img.shields.io/badge/Follow Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
-## I'm a Developer, Youtuber and Student!! 
-<img src="https://media3.giphy.com/media/NWNJHyPmIuXGxt6QnO/giphy_s.gif" width="100">
+### I'm a Developer, Youtuber and Student!!  <img src="https://media3.giphy.com/media/NWNJHyPmIuXGxt6QnO/giphy_s.gif" width="25">
 
 - 🎈 I’m currently exploring as much as I can 😁
 - 🎓 I’m looking to collaborate with other content creators
@@ -55,14 +54,16 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE -->
-- [Things from Rich Dad Poor Dad to Get Rich in 2022](https://youtu.be/iG-4Y_6MZgU)
-- [How I started Coding ? Why you should Code ?](https://www.youtube.com/watch?v=8CWCEst7olw)
-- [500+ Free Online Courses ](https://www.youtube.com/watch?v=DohM2xRiHxE)
+- [This is how I learned Hacking](https://youtu.be/qFmV3jRKhZQ)
+- [How I started Coding ? Why you should Code ?](https://youtu.be/8CWCEst7olw)
+- [I aced all my exams by doing this](https://youtu.be/xjoSzsC4Kwc)
+- [How to setup VSCode in any phone](https://youtu.be/U5Vync2oPdY)
+- [I use my second brain to study](https://youtu.be/yUTPIlIHB4s)
 <!-- YOUTUBE -->
 
 ➡️ [more videos...](https://youtube.com/amsorry)
 
-[twitter]: https://twitter.com/AnsariStark
+[twitter]: https://twitter.com/amsorry_offl
 [youtube]: https://youtube.com/amsorry
 [instagram]: https://instagram.com/amsorry_offl
 [linkedin]: https://linkedin.com/in/ansari-s
