@@ -26,7 +26,7 @@
 <br />
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=the-robin-hood&show_icons=true&theme=github_dark&count_private=true" alt="Ansari aka The-Robin-Hood's Github stats" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=the-robin-hood&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Ansari aka The-Robin-Hood's Github stats" align="right"/>
 </div>
 
 ### I'm good at:
