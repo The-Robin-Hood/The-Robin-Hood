@@ -68,7 +68,7 @@
 ➡️ [more videos...](https://youtube.com/amsorry)
 
 
-[twitter]: https://twitter.com/amsorry_offl
+[twitter]: https://twitter.com/am5orry
 [youtube]: https://youtube.com/amsorry
 [instagram]: https://instagram.com/amsorry_offl
 [linkedin]: https://linkedin.com/in/ansari-s
