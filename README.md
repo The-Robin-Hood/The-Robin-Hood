@@ -25,7 +25,7 @@
 
 <br />
 
-<div align="left">
+<div align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=the-robin-hood&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ansari aka The-Robin-Hood's Github stats" align="right"/>
 </div>
 
