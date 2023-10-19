@@ -5,10 +5,6 @@
 </div>
 
 ## Hi, I'm Ansari <img src="https://media.giphy.com/media/5HRdeFIzjV3FMnwd0K/giphy.gif" width="50"> aka therobinhood
-
-[<img target="_blank" align="left" alt="AmSorry | Youtube" width="130px" src="https://img.shields.io/badge/Subscribe-E4405F.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
-[<img target="_blank" align="left" alt="Ansari | Instagram" width="130px" src="https://img.shields.io/badge/Follow Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
-<br/>
 ### I'm a Developer, Youtuber and Student!!  <img src="https://media3.giphy.com/media/NWNJHyPmIuXGxt6QnO/giphy_s.gif" width="25">
 
 - 🎈 I’m currently exploring as much as I can 😁
@@ -24,8 +20,30 @@
 [<img align="left" alt="Ansari | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" target="_blank" />][instagram]
 
 <br />
+<br />
+<br />
+<br />
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-robin-hood&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ansari aka The-Robin-Hood's Github stats" align="right"/>
+
+
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=the-robin-hood&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ansari aka The-Robin-Hood's Github stats" align="right" />
+</div>
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE -->
+- [This is how I learned Hacking](https://youtu.be/qFmV3jRKhZQ)
+- [How I started Coding ? Why you should Code ?](https://youtu.be/8CWCEst7olw)
+- [I aced all my exams by doing this](https://youtu.be/xjoSzsC4Kwc)
+- [How to setup VSCode in any phone](https://youtu.be/U5Vync2oPdY)
+- [I use my second brain to study](https://youtu.be/yUTPIlIHB4s)
+<!-- YOUTUBE -->
+
+➡️ [more videos...](https://youtube.com/amsorry)
+
+
 
 [twitter]: https://twitter.com/am5orry
 [youtube]: https://youtube.com/amsorry
