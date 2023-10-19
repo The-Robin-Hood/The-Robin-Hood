@@ -25,22 +25,7 @@
 
 <br />
 
-<div align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=the-robin-hood&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ansari aka The-Robin-Hood's Github stats" align="right"/>
-</div>
-
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE -->
-- [This is how I learned Hacking](https://youtu.be/qFmV3jRKhZQ)
-- [How I started Coding ? Why you should Code ?](https://youtu.be/8CWCEst7olw)
-- [I aced all my exams by doing this](https://youtu.be/xjoSzsC4Kwc)
-- [How to setup VSCode in any phone](https://youtu.be/U5Vync2oPdY)
-- [I use my second brain to study](https://youtu.be/yUTPIlIHB4s)
-<!-- YOUTUBE -->
-
-➡️ [more videos...](https://youtube.com/amsorry)
-
 
 [twitter]: https://twitter.com/am5orry
 [youtube]: https://youtube.com/amsorry
