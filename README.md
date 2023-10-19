@@ -23,7 +23,7 @@
 ### ⚡ Fun facts about me:
 - Prefer docs over tutorial stuffs.
 - Coffee and syntax inseparable.
-- To me, social engineering is a fine art.
+- Hacking ? Nah, its "creative problem-solving."
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=the-robin-hood&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ansari aka The-Robin-Hood's Github stats" align="right" />
