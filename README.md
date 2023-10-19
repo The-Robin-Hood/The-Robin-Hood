@@ -10,7 +10,6 @@
 - 🎈 I’m currently exploring as much as I can 😁
 - 🎓 I’m looking to collaborate with other content creators
 - 📚 2023 Objective: To quit the rat race
-- ⚡ Fun fact: In love with Technology 
 
 ### Connect with me:
 
@@ -20,13 +19,11 @@
 [<img align="left" alt="Ansari | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" target="_blank" />][instagram]
 
 <br />
-<br />
-<br />
-<br />
-<br />
 
-
-
+### ⚡ Fun facts about me:
+- Prefer docs over tutorial stuffs.
+- Coffee and syntax inseparable.
+- To me, social engineering is a fine art.
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=the-robin-hood&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ansari aka The-Robin-Hood's Github stats" align="right" />
