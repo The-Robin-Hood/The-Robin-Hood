@@ -9,7 +9,7 @@
 
 - 🎈 I’m currently exploring as much as I can 😁
 - 🎓 I’m looking to collaborate with other content creators
-- 📚 2023 Objective: To quit the rat race
+- 📚 2024 Objective: To quit the rat race
 
 ### Connect with me:
 
