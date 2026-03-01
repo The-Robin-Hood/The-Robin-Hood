@@ -7,7 +7,7 @@
 ## Hi, I'm Ansari <img src="https://media.giphy.com/media/5HRdeFIzjV3FMnwd0K/giphy.gif" width="50"> aka therobinhood
 ### I'm a Developer, Youtuber and Student!!  <img src="https://media3.giphy.com/media/NWNJHyPmIuXGxt6QnO/giphy_s.gif" width="25">
 
-- 🎈 2025 Objective: Quit the rat race.
+- 🎈 2026 Objective: Quit the rat race.
 - 🎓 Be Consistent.
 - 📚 Discipline > Motivation
 
