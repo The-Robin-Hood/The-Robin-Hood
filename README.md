@@ -1,11 +1,12 @@
-## Hi, I'm Ansari <img src="https://media.giphy.com/media/5HRdeFIzjV3FMnwd0K/giphy.gif" width="50">
+<h3 align="center">Hi, I'm Ansari</h3>
+
 <img align="center" width="100%" src="game.gif" />
 
 <div align="left">
-<img  alt="The-Robin-Hood's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/The-Robin-Hood?cardType=level-alternate&Background=00000000&Border=00000000&theme=dracula&fontFamily=Crimson%20Text&preferLogin=true" align="right" />
+<img  alt="The-Robin-Hood's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/The-Robin-Hood?cardType=level-alternate&Background=00000000&Border=00000000&theme=dark&fontFamily=Crimson%20Text&preferLogin=true" align="right" />
 </div>
 
-### ⚡ Fun facts about me:
+### Fun facts about me:
 
 - I'm a polymath (You call it ADHD)
 - Prefer docs over tutorial stuffs.
@@ -13,4 +14,6 @@
 - Hacking ? Nah, just "creative problem-solving"
 - Discipline > Motivation
 
-To know more <a href="https://ansari.wtf">ansari.wtf</a>
+<br/>
+<div align="center">To know more <a href="https://ansari.wtf">ansari.wtf</a></div>
+<br/>
