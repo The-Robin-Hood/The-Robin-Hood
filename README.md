@@ -1,8 +1,8 @@
-## Hi, I'm Ansari <img src="https://media.giphy.com/media/5HRdeFIzjV3FMnwd0K/giphy.gif" width="50"> aka therobinhood
+## Hi, I'm Ansari <img src="https://media.giphy.com/media/5HRdeFIzjV3FMnwd0K/giphy.gif" width="50">
 <img align="center" width="100%" src="game.gif" />
 
 <div align="left">
-<img  alt="The-Robin-Hood's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/The-Robin-Hood?cardType=level-alternate&Background=00000000&Border=00000000&theme=dracula&fontFamily=Crimson%20Text&preferLogin=false" align="right" />
+<img  alt="The-Robin-Hood's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/The-Robin-Hood?cardType=level-alternate&Background=00000000&Border=00000000&theme=dracula&fontFamily=Crimson%20Text&preferLogin=true" align="right" />
 </div>
 
 ### ⚡ Fun facts about me:
